@@ -19,11 +19,7 @@ class ViewController: UIViewController,UITableViewDelegate,UITableViewDataSource
 //        item.textString="IT works!!"
 //        DBManager.sharedInstance.addData(object:item)
         
-        
-        // Do any additional setup after loading the view, typically from a nib.
-        //wheel photo stand
-        //moon wool stand
-        //photos attached coffee mug
+       
         //
     }
     func showAlert(){
